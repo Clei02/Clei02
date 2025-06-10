@@ -1,4 +1,4 @@
-### 👋 ¡Hola! Soy Cleimer Quintero (Próximo Ingeniero en Sistemas - Especialista en seguridad informatica)
+### 👋 ¡Hola! Soy Cleimer Quintero (Próximo Ingeniero en Sistemas - Especialista en seguridad informatica - Auditor de sistemas)
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=Bienvenido%20a%20mi%20perfil!&fontSize=30&fontColor=ffffff)
 
