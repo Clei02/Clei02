@@ -3,7 +3,7 @@
   <img src="assets/tu-foto.jpg" alt="Cleimer Quintero" width="200">
 </div>
 
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:434343&height=200&section=header&text=root@cleimer:~$%20whoami&fontSize=25&fontColor=00ff00&fontAlign=30)
+![Banner](https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,100:764ba2&height=200&section=header&text=SECURITY%20ENGINEER&fontSize=35&fontColor=ffffff&animation=blinking)
 
 ## 👨‍💻 Sobre mí
 
